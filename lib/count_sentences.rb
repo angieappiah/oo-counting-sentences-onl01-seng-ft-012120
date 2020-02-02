@@ -38,4 +38,3 @@ end
     return new_array.length
   end
   end
-end
